@@ -1,0 +1,30 @@
+{
+  "name": "login-nodejs",
+  "version": "1.0.0",
+  "description": "A study project for implementing a login system with NodeJS",
+  "keywords": [
+    "[\"nodejs\"",
+    "\"nextjs\"",
+    "\"express\"",
+    "\"login\"]"
+  ],
+  "homepage": "https://github.com/oceanwater1234/Web-Study#readme",
+  "bugs": {
+    "url": "https://github.com/oceanwater1234/Web-Study/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oceanwater1234/Web-Study.git"
+  },
+  "license": "ISC",
+  "author": "oceanwater",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
